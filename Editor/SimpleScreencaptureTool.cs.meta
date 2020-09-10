@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bedec929fbc733840a864a2b5f7ef964
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Target: {instanceID: 0}
+  - m_ToolIcon: {fileID: 2800000, guid: 6a69de18a8ab5854eb12ca47915f0d21, type: 3}
+  - captureIcon: {fileID: 2800000, guid: 637230d576ea718488c2dd289dc7f164, type: 3}
+  - multiCaptureIcon: {fileID: 2800000, guid: 178a5c14037c09b43bd1fe85410eade1, type: 3}
+  - selCaptureIcon: {fileID: 2800000, guid: f936617c4f2980849a32a8842a272d0d, type: 3}
+  - exploreIcon: {fileID: 2800000, guid: b59d70d3f3092a04a86a86177b8f885f, type: 3}
+  - settingIcon: {fileID: 2800000, guid: 50f9f316c7a24cc47b330f5774e97d94, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
